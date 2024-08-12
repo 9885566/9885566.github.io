@@ -1,0 +1,42 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+align-items: center;
+padding: 16px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+div img{
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid red;
+}
+.center{
+    text-align: center;
+}
+h1{
+    color: blanchedalmond;
+}
+h2{
+    color: blueviolet;
+}
+footer img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 3px solid red;
+}
+body .hmtl{
+color: white;
+background-color: black;
+font-family: Arial, Helvetica, sans-serif;
+}
